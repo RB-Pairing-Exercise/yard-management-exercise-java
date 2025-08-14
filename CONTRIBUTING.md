@@ -1,4 +1,4 @@
-# Contributing Yard Management Excerise 
+# Contributing Yard Management Exercise 
 
 ## Running the tests
 
